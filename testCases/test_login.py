@@ -42,7 +42,7 @@ class Test_001_Login:
         self.loginpage.clickLogin()
         act_title = self.driver.title
 
-        if act_title == "Dashboard \ nopCommerce administration":
+        if act_title == "Dashboard / nopCommerce administration":
             self.logger.info("******** Login test is passed ********")
             self.driver.close()
 
