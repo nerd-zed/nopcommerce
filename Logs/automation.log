@@ -1,0 +1,29 @@
+05/07/2021 01:33:51 PM: INFO: Test_001_Login: ******** Verifying Home Page Title ********
+05/07/2021 01:33:55 PM: INFO: Test_001_Login: ******** Home Page Title test is passed ********
+05/07/2021 01:33:57 PM: INFO: Test_001_Login: ******** Verifying Login Test ********
+05/07/2021 01:34:11 PM: INFO: Test_001_Login: ******** Login test is passed ********
+05/07/2021 01:36:53 PM: INFO: Test_001_Login: ******** Verifying Home Page Title ********
+05/07/2021 01:36:56 PM: INFO: Test_001_Login: ******** Verifying Login Test ********
+05/08/2021 12:55:22 AM: INFO: Test_001_Login: ******** Verifying Home Page Title ********
+05/08/2021 12:55:26 AM: INFO: Test_001_Login: ******** Home Page Title test is passed ********
+05/08/2021 12:55:32 AM: INFO: Test_001_Login: ******** Verifying Login Test ********
+05/08/2021 12:55:42 AM: ERROR: Test_001_Login: ******** Login test is failed ********
+05/10/2021 12:33:31 PM: INFO: Test_001_Login: ******** Verifying Home Page Title ********
+05/10/2021 12:33:33 PM: INFO: Test_001_Login: ******** Verifying Login Test ********
+05/10/2021 12:52:33 PM: INFO: Test_001_Login: ******** Verifying Home Page Title ********
+05/10/2021 12:52:37 PM: INFO: Test_001_Login: ******** Home Page Title test is passed ********
+05/10/2021 12:52:39 PM: INFO: Test_001_Login: ******** Verifying Login Test ********
+05/10/2021 12:52:49 PM: ERROR: Test_001_Login: ******** Login test is failed ********
+05/10/2021 01:43:57 PM: INFO: Test_002_DDT_Login: ******** Verifying DDT Login Test ********
+05/10/2021 01:44:16 PM: INFO: Test_002_DDT_Login: ******** Failed ********
+05/10/2021 01:45:07 PM: INFO: Test_002_DDT_Login: ******** Verifying DDT Login Test ********
+05/10/2021 01:45:23 PM: INFO: Test_002_DDT_Login: ******** Passed ********
+05/10/2021 01:45:33 PM: INFO: Test_002_DDT_Login: ******** Passed ********
+05/10/2021 01:45:40 PM: INFO: Test_002_DDT_Login: ******** Passed ********
+05/10/2021 01:45:47 PM: INFO: Test_002_DDT_Login: ******** Passed ********
+05/10/2021 01:45:47 PM: INFO: Test_002_DDT_Login: ******** Login DTT Test Passes ********
+05/10/2021 01:46:45 PM: INFO: Test_002_DDT_Login: ******** Verifying DDT Login Test ********
+05/10/2021 01:47:02 PM: INFO: Test_002_DDT_Login: ******** Passed ********
+05/10/2021 01:47:10 PM: INFO: Test_002_DDT_Login: ******** Failed ********
+05/10/2021 01:47:16 PM: INFO: Test_002_DDT_Login: ******** Passed ********
+05/10/2021 01:47:22 PM: INFO: Test_002_DDT_Login: ******** Passed ********

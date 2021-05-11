@@ -1,0 +1,12 @@
+pythond -m pytest -v -s testCases/test_login.py 
+
+pythond -m pytest -v -s testCases/test_login.py --browser chrome
+
+pythond -m pytest -v -s testCases/test_login.py --browser firefox
+
+
+Running Testcases parallel
+
+pythond -m pytest -v -n=[no.of_test_cases] -s testCases/test_login.py 
+
+pythond -m pytest -v -n=2 -s testCases/test_login.py 
