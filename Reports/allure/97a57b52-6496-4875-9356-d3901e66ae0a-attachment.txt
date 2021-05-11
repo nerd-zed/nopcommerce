@@ -1,5 +1,0 @@
-[32mINFO    [0m Test_002_DDT_Login:test_login_ddt.py:18 ******** Verifying DDT Login Test ********
-[32mINFO    [0m Test_002_DDT_Login:test_login_ddt.py:41 ******** Passed ********
-[32mINFO    [0m Test_002_DDT_Login:test_login_ddt.py:53 ******** Failed ********
-[32mINFO    [0m Test_002_DDT_Login:test_login_ddt.py:50 ******** Passed ********
-[32mINFO    [0m Test_002_DDT_Login:test_login_ddt.py:50 ******** Passed ********
